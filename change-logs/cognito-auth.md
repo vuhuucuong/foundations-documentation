@@ -6,4 +6,16 @@ description: >-
 ---
 
 # Cognito Auth
+### cognito-auth_v1.0.42 - 2020-03-24
+  
+Release: foundations-ts-definitions_v0.0.75
+Rollback: foundations-ts-definitions_v0.0.74
+Changes:
+commit | author |description
+  
+- 49efd7305e14ae8e74ed9cbf76b59041f4cbca90 | Github Actions <GithubActions@email.com> | chore: update TypeScript definition - time stamp: 2020-02-20
+
+approver: @willmcvay
+monitor: https://sentry.io/organizations/reapit-ltd/projects/
+    
 
