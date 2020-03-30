@@ -6,6 +6,9 @@ description: >-
 ---
 
 # Elements
+### elements_v1.0.45 - 2020-03-30
+  
+    
 ### elements_v1.0.41_released - 2020-03-24
   
 Release: cognito-auth_v2.1.0
