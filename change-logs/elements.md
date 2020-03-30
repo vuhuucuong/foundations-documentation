@@ -6,6 +6,19 @@ description: >-
 ---
 
 # Elements
+### elements_v1.0.46 - 2020-03-30
+  
+Release: elements_v0.5.45
+Rollback: elements_v0.5.44
+Changes:
+commit | author |description
+  
+- 94300d7d4bcd70123327a38359773662cd64c4a6 | Cuong Vu <cuongvh@reapit.com> | chore: bump elements version 0.5.45 (#756)
+- b91719552a2da0fc5e69e2be92fc895ffa0dbef2 | Cuong Vu <cuongvh@reapit.com> | feat: #652 Upload CSV should validate before submit (#750)* feat: #652 upload CSV should validate before submit
+
+approver: @willmcvay
+monitor: https://sentry.io/organizations/reapit-ltd/projects/
+    
 ### elements_v1.0.41_released - 2020-03-24
   
 Release: cognito-auth_v2.1.0
